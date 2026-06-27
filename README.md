@@ -1,3 +1,19 @@
+## webアプリ開発の基礎
+- フロントエンド
+    - React(HTML, CSS, javascript, typescript)
+        - 宣言的UI（SPA）
+        - コンポーネント（1つのjsx、tsxファイルで記述できる）
+- バックエンド
+    - Spring Boot(Java)
+        - model
+        - Controller
+        - Service
+        - Repository
+            - JDBC template
+            - JPA
+    - PostgreSQL
+        - DBへアクセス
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
